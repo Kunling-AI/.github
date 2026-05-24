@@ -1,4 +1,7 @@
 # .github
+
+下面内容会随时更改，这是初步写了个框架
+
 KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical Geoscience. By Dr. Ze Liu (OUC). A core framework for multi-scale spheres coupling, intelligent data assimilation, and deep-time reconstruction. Bridging tectonic-climate-sedimentary modeling with high-fidelity paleogeomorphology and paleoenvironment inversion.
 
 # 🌊 KUNLING-Core: Next-Generation AI-Driven Numerical Geoscience Framework
@@ -18,6 +21,7 @@ KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical
 我们的目标是解决复杂的地球系统问题——从深时沉积演化到多尺度圈层耦合，实现前所未有的计算效率和物理保真度。
 
 ---
+
 
 ## 🛠️ 核心研究模块 (Core Research Modules)
 
