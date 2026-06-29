@@ -1,8 +1,11 @@
-# KUNLING Computational Geoscience (鲲灵智算)
-把AI的事交给AI,让人回归人的价值！
+# KUNLING-AI Research Group
+# 鲲灵智算
 
-共研 · 共创 · 共享
+# “Let AI handle intelligence, let humans return to value creation！”
+# 把AI的事交给AI,让人回归人的价值！
+
 Research Together · Create Together · Share Together
+共研 · 共创 · 共享
 
 KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical Geoscience. By Dr. Ze Liu (OUC). A core framework for multi-scale spheres coupling, intelligent data assimilation, and deep-time reconstruction. Bridging tectonic-climate-sedimentary modeling with high-fidelity paleogeomorphology and paleoenvironment inversion.
 
@@ -18,7 +21,7 @@ KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical
 
 ## 🚀 项目概述 (Overview)
 
-**KUNLING-Core** 是一个高性能、物理增强的 AI 框架，旨在重构海洋地质数值模拟的研究范式。由中国海洋大学（OUC）**鲲灵智算课题组 (KUNLING Computational Geoscience Group)** 开发，该核心库弥合了传统数值模拟与前沿人工智能之间的鸿沟。
+**KUNLING-Core** 是一个高性能、物理增强的 AI 框架，旨在重构海洋地质数值模拟的研究范式。由中国海洋大学（OUC）**鲲灵智算研究组 (KUNLING AI Research Group for Computational Geoscience)** 开发，该核心库弥合了传统数值模拟与前沿人工智能之间的鸿沟。
 
 我们的目标是解决复杂的地球系统问题——从深时沉积演化到多尺度圈层耦合，实现前所未有的计算效率和物理保真度。
 
