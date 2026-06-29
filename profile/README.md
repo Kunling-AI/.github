@@ -1,4 +1,4 @@
-# KUNLING Computational Geoscience Group (鲲灵智算)
+# KUNLING Computational Geoscience (鲲灵智算)
 把AI的事交给AI,让人回归人的价值！
 
 共研 · 共创 · 共享
@@ -18,7 +18,7 @@ KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical
 
 ## 🚀 项目概述 (Overview)
 
-**KUNLING-Core** 是一个高性能、物理增强的 AI 框架，旨在重构海洋地质数值模拟的研究范式。由中国海洋大学（OUC）**鲲灵智算实验室 (KUNLING Lab)** 开发，该核心库弥合了传统数值模拟与前沿人工智能之间的鸿沟。
+**KUNLING-Core** 是一个高性能、物理增强的 AI 框架，旨在重构海洋地质数值模拟的研究范式。由中国海洋大学（OUC）**鲲灵智算课题组 (KUNLING Computational Geoscience Group)** 开发，该核心库弥合了传统数值模拟与前沿人工智能之间的鸿沟。
 
 我们的目标是解决复杂的地球系统问题——从深时沉积演化到多尺度圈层耦合，实现前所未有的计算效率和物理保真度。
 
@@ -59,5 +59,5 @@ KUNLING-Core/
 ├── modules/                # 四大方向专用模块 (Coupling, Assimilation, etc.)
 ├── physics/                # 物理控制方程与约束集
 ├── data/                   # 海洋地质数据预处理脚本
-├── examples/               # 教程与 Nature 投稿案例研究
+├── examples/               # 教程与学术论文投稿案例研究
 └── tests/                  # 数值稳定性单元测试
