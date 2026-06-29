@@ -44,10 +44,7 @@ KUNLING: Knowledge-augmented Universal Neural Learning for Intelligent Numerical
 *   **全球地学向量数据库 (Global Geoscience Vector Database):** 构建统一语义空间的全球多模态地学向量索引体系，支持高效相似性搜索与跨区域地质过程知识迁移。
 *   **千倍加速 (1000x Acceleration):** 实现比传统有限元 (FEM) 或有限体积 (FVM) 求解器快几个数量级的高保真模拟。
 *   **深时兼容性:** 针对深时地质数据的稀疏性和不确定性进行了专项优化。
-*   **通用引擎:** 模块化设计，支持从局部三角洲体系到全球海洋盆地的跨尺度扩展。
-*   
-
-*   KUNLING Computational Geoscience Group
+*   **通用引擎:** 模块化设计，支持从局部三角洲体系到全球海洋盆地的跨尺度扩展。   
 
 ---
 
